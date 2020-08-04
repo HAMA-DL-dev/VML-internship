@@ -11,5 +11,12 @@
 * 3.5 Why training NN is difficult?
 * 3.6 Deep learning nowadays
 * 3.7 CNN
-## 4. What we need? 
+## 4. What we need?
+* 4.1 Data loader
+* 4.2 Custom Data loader
 ## 5. Additional 
+* 5.1 Drop out
+* 5.2 Regularizer
+* 5.3 Pretrained weight
+* 5.4 Xavier weight init.
+* 5.5 Network architecture: VGG & ResNet
