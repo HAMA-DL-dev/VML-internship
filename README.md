@@ -1,5 +1,5 @@
 # VML-internship
-## 한양대학교 에리카 비전 모델링 연구실에서의 2020년도 하계 인턴쉽.
+ 한양대학교 에리카 비전 모델링 연구실에서의 2020년도 하계 인턴쉽.
 ## vision modeling laboralory 
 ### http://vml.hanyang.ac.kr/?doing_wp_cron=1596537932.4786469936370849609375
 # 인턴쉽 기간
